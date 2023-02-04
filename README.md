@@ -9,7 +9,7 @@ This website is fully resposive and has support for various broswers as well.
 
 Advance SCSS concepts like mixins, vairables and nesting has been used for reuability and readbility,
 
-The Project has been divinded into 5 folders including base, abstract, components, layouts and pages. 
+The Project has been divided into 5 folders including base, abstract, components, layouts and pages. 
 
 There are lots of more details to it and I know some of these concept might be really helpful for developer.
 I'll be publishing a blog on it soon.
