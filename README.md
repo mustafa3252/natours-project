@@ -17,3 +17,8 @@ I'll be publishing a blog on it soon.
 Until then, please check out the live website here :))
 
 https://natours-project-8pia4aw2w-mustafa3252.vercel.app/
+
+
+
+https://user-images.githubusercontent.com/57094106/216785597-d35999b6-9c5e-4526-98b2-b508c65f97c8.mp4
+
